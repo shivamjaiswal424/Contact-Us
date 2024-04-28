@@ -1,4 +1,4 @@
-#To Run the project use
+# To Run the project use
 1. npm i
 2. npm run dev
 
